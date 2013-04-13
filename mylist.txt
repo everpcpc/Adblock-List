@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+! Title: everpcpc's list
+! Last modified: 13 April 2013 21:58 CST
+! Expires: 7 days (update frequency)
+! Homepage: https://www.everpcpc.com
+
+
+!------------------renren.com----------------!
+renren.com###footer
+renren.com###friendPhoto
+renren.com###homeBirthdayPart
+renren.com###recommendFriends
+renren.com###showAppMenu
+renren.com###webpager-miniradio
+renren.com##.icons-grade
+renren.com##.site-menu-box
+renren.com##.today-topic
+renren.com##.advert-con
+renren.com###pymk_home_2
+renren.com##.sales-poll
+renren.com###homeBirthdayPart::after
+renren.com##.web-function
+renren.com###dressupHomeBtn
+!--------------------------------------------!
