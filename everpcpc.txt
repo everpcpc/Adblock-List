@@ -9,6 +9,7 @@
 renren.com###footer
 renren.com###friendPhoto
 renren.com###homeBirthdayPart
+renren.com###sidebar2 .side-item:nth-child(7)
 renren.com###recommendFriends
 renren.com###showAppMenu
 renren.com###webpager-miniradio
@@ -18,7 +19,7 @@ renren.com##.today-topic
 renren.com##.advert-con
 renren.com###pymk_home_2
 renren.com##.sales-poll
-renren.com###homeBirthdayPart::after
-renren.com##.web-function
 renren.com###dressupHomeBtn
+renren.com###friends-panel .popupwindow:first-child
+renren.com##.downloadclient
 !--------------------------------------------!
