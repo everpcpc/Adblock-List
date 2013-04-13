@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"file_base_name"
+			],
+			[
+				"op",
+				"opacity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 48,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "list.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"git di",
+				"Git: Diff All"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"djan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"dja",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"dj",
+				"Set Syntax: Python Django"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 386.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/work/Project/Adblock-List/README.md",
+		"/D/linux/ssh/putty.ppk",
+		"/D/linux/ssh/github_rsa.pub",
+		"/D/linux/ssh/id_rsa.pub",
+		"/C/Users/Sample/.ssh/github_rsa.pub",
+		"/C/Users/Sample/.ssh/id_rsa.pub",
+		"/C/Users/Sample/.ssh/id_rsa",
+		"/D/doc/时间轴/jQuery版公司大事记时间轴/js/main.js",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/GBK Encoding Support/tmp/history.css                D%3A%5Cdoc%5C%E6%97%B6%E9%97%B4%E8%BD%B4%5CjQuery%E7%89%88%E5%85%AC%E5%8F%B8%E5%A4%A7%E4%BA%8B%E8%AE%B0%E6%97%B6%E9%97%B4%E8%BD%B4%5Ccss%5Chistory.css",
+		"/D/doc/时间轴/jQuery版公司大事记时间轴/css/history.css",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/GBK Encoding Support/tmp/index.html                D%3A%5Cdoc%5C%E6%97%B6%E9%97%B4%E8%BD%B4%5CjQuery%E7%89%88%E5%85%AC%E5%8F%B8%E5%A4%A7%E4%BA%8B%E8%AE%B0%E6%97%B6%E9%97%B4%E8%BD%B4%5Cindex.html",
+		"/D/doc/时间轴/jQuery版公司大事记时间轴/index.html",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/GBK Encoding Support/tmp/history.css                C%3A%5CUsers%5CSample%5CDownloads%5CjQuery%E7%89%88%E5%85%AC%E5%8F%B8%E5%A4%A7%E4%BA%8B%E8%AE%B0%E6%97%B6%E9%97%B4%E8%BD%B4%5Ccss%5Chistory.css",
+		"/C/Users/Sample/Downloads/jQuery版公司大事记时间轴/css/history.css",
+		"/C/Users/Sample/Downloads/jQuery版公司大事记时间轴/js/jquery.js",
+		"/C/Users/Sample/Downloads/jQuery版公司大事记时间轴/js/main.js",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/GBK Encoding Support/tmp/demo.html                C%3A%5CUsers%5CSample%5CDownloads%5Ctimeline%5Cdemo.html",
+		"/C/Users/Sample/Downloads/timeline/js/Smohan.blog.plug.js",
+		"/C/Users/Sample/Downloads/timeline/demo.html",
+		"/D/DOWNLOAD/编辑器.md",
+		"/D/work/Project/python/SmartCar/manage.py",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/User/XeLaTeX.sublime-build",
+		"/D/work/Project/python/SmartCar/README.md",
+		"/D/work/Project/python/SmartCar/templates/403.html",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/User/SmartCar.sublime-project",
+		"/D/DOWNLOAD/math-equa-work6.tex",
+		"/D/DOWNLOAD/math-equa-work5.tex",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/User/SmartCar.sublime-build",
+		"/D/work/Project/python/SmartCar/.gitignore",
+		"/D/work/Project/python/SmartCar/.idea/workspace.xml",
+		"/D/work/Project/python/SmartCar/.idea/encodings.xml",
+		"/D/work/Project/PyCharm/SmartCar/accounts/models.py",
+		"/C/Users/Sample/.gitconfig",
+		"/D/Program Files/PortableGit-1.8.0/etc/gitconfig",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/GBK Encoding Support/tmp/git-completion.bash                D%3A%5CProgram+Files%5CPortableGit-1.8.0%5Cetc%5Cgit-completion.bash",
+		"/D/Program Files/PortableGit-1.8.0/etc/git-completion.bash",
+		"/D/Program Files/PortableGit-1.8.0/etc/inputrc",
+		"/D/Program Files/PortableGit-1.8.0/etc/profile",
+		"/D/work/Project/PyCharm/SmartCar/accounts/views.py",
+		"/D/work/Project/PyCharm/SmartCar/templates/accounts/signup.html",
+		"/D/work/Project/PyCharm/SmartCar/templates/accounts/signup_end.html",
+		"/D/work/Project/PyCharm/SmartCar/accounts/settings.py",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/User/Git.sublime-settings",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/Git/Git.sublime-settings",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/User/Preferences.sublime-settings",
+		"/D/work/Project/PyCharm/SmartCar/accounts/admin.py",
+		"/D/software/design/Inpaint注册码.txt",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/GBK Encoding Support/tmp/%E4%B8%8B%E8%BD%BD%E5%BF%85%E7%9C%8B.txt                E%3A%5CComic%5C%E5%88%80%E5%89%9103%5C%E4%B8%8B%E8%BD%BD%E5%BF%85%E7%9C%8B.txt",
+		"/E/Comic/刀剑03/下载必看.txt",
+		"/C/Users/Sample/AppData/Local/Google/Chrome/User Data/Default/User StyleSheets/Custom.css",
+		"/D/software/web/wordpress/theme/nimble/Readme first!.txt",
+		"/D/software/web/wordpress/theme/nimble/dummy.xml",
+		"/C/Users/Sample/Downloads/关于推免生提交政审材料和学习报告的通知.md",
+		"/C/Users/Sample/Downloads/all.css",
+		"/D/Program Files/Adobe/Adobe Photoshop CS6 (64 Bit)/安装说明.txt",
+		"/C/Users/Sample/AppData/Local/Temp/Rar$DI00.109/Readme first!.txt",
+		"/C/Users/Sample/Downloads/webpage-tunnel/proxy.php",
+		"/D/DOWNLOAD/reader.sql",
+		"/D/Program Files/FeedDemonPortable/Data/Cache/Subscriptions.opml",
+		"/D/Program Files/FeedDemonPortable/Data/Cache/feeds.fdb-wal",
+		"/D/Program Files/FeedDemonPortable/Data/Cache/CustomToolbars.xml",
+		"/D/Program Files/FeedDemonPortable/Data/Cache/BlogThisApps.xml",
+		"/D/Program Files/FeedDemonPortable/App/FeedDemon/Data/ShortUrl.xml",
+		"/D/Program Files/FeedDemonPortable/App/FeedDemon/Data/autodisc.xml",
+		"/D/Program Files/FeedDemonPortable/App/FeedDemon/Data/defaults/Subscriptions.opml",
+		"/D/linux/cer/reader.crt",
+		"/D/linux/cer/chain-reader.pem",
+		"/D/linux/cer/www.csr",
+		"/C/Users/Sample/Downloads/Incomplete Theme/Don't readme.txt",
+		"/C/Users/Sample/Downloads/base_for_windows_8_by_link6155-d5xf3on/readme.txt",
+		"/D/DOWNLOAD/library/packages.tex",
+		"/D/work/SRT/图案.txt",
+		"/D/DOWNLOAD/MBI.Report.2013.April.7.md",
+		"/D/DOWNLOAD/毕设工作汇报.2013.April.7.md",
+		"/E/Game/美少女万華鏡 -呪われし伝説の少女/GameData/System/config.txt",
+		"/E/Game/素晴らしき日々～不連続存在～/NTLEA/Readme.txt",
+		"/E/Game/誰が殺したコマドリを/readme.txt",
+		"/E/Game/妹調教日記～こんなツンデレが俺の妹なわけない!～/攻略.txt",
+		"/E/Game/あかね色に染まる坂/汉化说明.txt",
+		"/E/Game/美少女万華鏡 -呪われし伝説の少女/ERRORLOG.txt",
+		"/E/Game/美少女万華鏡 -呪われし伝説の少女/readme.txt",
+		"/D/Program Files/Sublime Text 2.0.1-32bit/Data/Packages/User/Package Control.sublime-settings",
+		"/D/Program Files/Sublime Text 2.0.1/Data/Packages/User/Package Control.sublime-settings",
+		"/D/Program Files/Sublime Text 2.0.1-32bit/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Program Files/Sublime Text 2.0.1-32bit/Data/Packages/User/Matlab.sublime-settings",
+		"/D/Program Files/Sublime Text 2.0.1-32bit/Data/Packages/User/XeLaTeX.sublime-build"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"T_",
+			"T_EL",
+			"T_ELSEI",
+			"width",
+			"SmartCar",
+			";\n",
+			"}",
+			"byr",
+			"twocolumn",
+			"\"]\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "list.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 184.0
+	},
+	"output.git":
+	{
+		"height": 227.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Program Files/Sublime Text 2.0.1/Data/Packages/User/theme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
