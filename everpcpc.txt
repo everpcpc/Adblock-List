@@ -13,6 +13,8 @@ renren.com###friendPhoto
 renren.com###homeBirthdayPart
 renren.com###sidebar2 .side-item:nth-child(7)
 renren.com###recommendFriends
+renren.com###pv-recommFriend
+renren.com###slide-recommend-top
 renren.com###showAppMenu
 renren.com###webpager-miniradio
 renren.com##.icons-grade
