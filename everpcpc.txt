@@ -3,6 +3,7 @@
 ! Last modified: 13 April 2013 21:58 CST
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.everpcpc.com
+!-------based on ChinaList+EasyList----------!
 
 
 !------------------renren.com----------------!
@@ -24,4 +25,8 @@ renren.com###dressupHomeBtn
 renren.com###friends-panel .popupwindow:first-child
 renren.com##.downloadclient
 renren.com###notice_system
+!--------------------------------------------!
+
+!----------------lightnovel.cn---------------!
+http://www.91339.com/page/s.php
 !--------------------------------------------!
