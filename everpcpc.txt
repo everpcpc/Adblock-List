@@ -27,6 +27,24 @@ renren.com##.downloadclient
 renren.com###notice_system
 !--------------------------------------------!
 
+
+!------------------weibo.com-----------------!
+weibo.com###pl_leftnav_app
+weibo.com###trustPagelet_recom_memberv5
+weibo.com###trustPagelet_recom_interestv5
+weibo.com###trustPagelet_zt_hottopicv5
+weibo.com###trustPagelet_recom_allinonev5
+weibo.com###pl_rightmod_noticeboard
+weibo.com##.global_footer
+weibo.com##.gn_title[node-type="game"]
+weibo.com##.gn_title[node-type="weiba"]
+weibo.com##.gn_title[node-type="app"]
+weibo.com##.gn_setting[node-type="member"]
+weibo.com##.S_textb
+weibo.com##.W_tips
+!--------------------------------------------!
+
+
 !----------------lightnovel.cn---------------!
 http://www.91339.com/page/s.php
 !--------------------------------------------!
