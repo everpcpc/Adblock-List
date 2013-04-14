@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: everpcpc's list
 ! Last modified: 13 April 2013 21:58 CST
-! Expires: 7 days (update frequency)
+! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/everpcpc/Adblock-List
 !-------based on ChinaList+EasyList----------!
 
@@ -14,7 +14,7 @@ renren.com###homeBirthdayPart
 renren.com###sidebar2 .side-item:nth-child(7)
 renren.com###recommendFriends
 renren.com###pv-recommFriend
-renren.com###slide-recommend-top
+renren.com##.slide-recommend
 renren.com###showAppMenu
 renren.com###webpager-miniradio
 renren.com##.icons-grade
