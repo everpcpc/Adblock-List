@@ -2,10 +2,11 @@
 ! Title: everpcpc's list
 ! Last modified: 13 April 2013 21:58 CST
 ! Expires: 7 days (update frequency)
-! Homepage: https://www.everpcpc.com
+! Homepage: https://github.com/everpcpc/Adblock-List
 !-------based on ChinaList+EasyList----------!
 
 
+!--------------------人人网-------------------!
 !------------------renren.com----------------!
 renren.com###footer
 renren.com###friendPhoto
@@ -28,6 +29,7 @@ renren.com###notice_system
 !--------------------------------------------!
 
 
+!-------------------新浪微博------------------!
 !------------------weibo.com-----------------!
 weibo.com###pl_leftnav_app
 weibo.com###trustPagelet_recom_memberv5
@@ -45,6 +47,7 @@ weibo.com##.W_tips
 !--------------------------------------------!
 
 
+!-------------------轻之国度------------------!
 !----------------lightnovel.cn---------------!
 http://www.91339.com/page/s.php
 !--------------------------------------------!
