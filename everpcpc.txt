@@ -16,6 +16,7 @@ renren.com###recommendFriends
 renren.com###pv-recommFriend
 renren.com##.slide-recommend
 renren.com###showAppMenu
+renren.com##.recommend-wrap
 renren.com###webpager-miniradio
 renren.com##.icons-grade
 renren.com##.site-menu-box
