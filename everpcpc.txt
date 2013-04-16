@@ -55,3 +55,11 @@ weibo.com##.W_tips
 !----------------lightnovel.cn---------------!
 http://www.91339.com/page/s.php
 !--------------------------------------------!
+
+
+!----------------nyaatorrent-----------------!
+!------------------nyaa.eu-------------------!
+nyaa.eu##div[style="float:right;width:11.9%;"]
+nyaa.eu##div[style="float:left;width:100%;"]
+nyaa.eu##div[style="float:left;"]
+!--------------------------------------------!
