@@ -48,6 +48,7 @@ weibo.com##.gn_title[node-type="app"]
 weibo.com##.gn_setting[node-type="member"]
 weibo.com##.S_textb
 weibo.com##.W_tips
+weibo.com##.layer_tips
 !--------------------------------------------!
 
 
