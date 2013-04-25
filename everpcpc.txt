@@ -31,6 +31,7 @@ renren.com###friends-panel .popupwindow:first-child
 renren.com##.downloadclient
 renren.com###notice_system
 renren.com###dropmenuHolder
+renren.com###right_side_div
 !--------------------------------------------!
 
 
