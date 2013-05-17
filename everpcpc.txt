@@ -57,6 +57,10 @@ weibo.com##.layer_tips
 !-------------------轻之国度------------------!
 !----------------lightnovel.cn---------------!
 http://www.91339.com/page/s.php
+
+www.lightnovel.cn##.lk
+www.lightnovel.cn###online
+www.lightnovel.cn##.bm.bmw.cl:first-child
 !--------------------------------------------!
 
 
