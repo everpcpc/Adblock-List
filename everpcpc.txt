@@ -62,11 +62,3 @@ www.lightnovel.cn##.lk
 www.lightnovel.cn###online
 www.lightnovel.cn##.bm.bmw.cl:first-child
 !--------------------------------------------!
-
-
-!----------------nyaatorrent-----------------!
-!------------------nyaa.eu-------------------!
-nyaa.eu##div[style="float:right;width:11.9%;"]
-nyaa.eu##div[style="float:left;width:100%;"]
-nyaa.eu##div[style="float:left;"]
-!--------------------------------------------!
